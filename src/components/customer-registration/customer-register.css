@@ -1,0 +1,7 @@
+.form-group{
+    padding: 5px;
+}
+.required{
+    color: red;
+    font-size: 19px;
+}

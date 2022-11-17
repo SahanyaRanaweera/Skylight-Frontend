@@ -1,0 +1,27 @@
+.container-form{
+    border-style: solid;
+    padding: 35px;
+    border-color: grey;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: 80px;
+}
+#button{
+    margin: 10px;
+}
+#profile-box{
+    border-style: none;
+}
+#profile-image{
+    height: 200px;
+    width: 200px;
+}
+#inputGroupFile03{
+    position: relative;
+}
+#inputGroupFile03::file-selector-button{ 
+    background-color: green;
+    color: white;
+    
+}
